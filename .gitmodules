@@ -1,0 +1,3 @@
+[submodule "web/app/themes/themeQuotaClimat"]
+	path = web/app/themes/themeQuotaClimat
+	url = git@github.com:KevinTessier/Starter_ThemeWP_Sage.git
