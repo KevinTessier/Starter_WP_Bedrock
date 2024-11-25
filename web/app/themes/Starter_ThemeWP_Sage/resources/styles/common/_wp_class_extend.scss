@@ -16,7 +16,7 @@
     @apply relative my-7;
 
     a {
-        @apply relative z-50 block  scale-100 transform overflow-hidden transition-all duration-700;
+        @apply relative z-50 block scale-100 transform overflow-hidden transition-all duration-700;
 
         img {
             @apply scale-100 transform object-cover transition-all duration-1000 ease-in-out;
