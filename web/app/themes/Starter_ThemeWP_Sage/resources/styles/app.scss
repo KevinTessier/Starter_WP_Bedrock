@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Import Commom */
+@import 'common/configs';
+@import 'common/global';
+@import 'common/typographies';
+@import 'common/accessibilite';
+@import 'common/animations';
+@import 'common/wp_class_extend';
+
+/* Import Layout styles */
+@import 'layouts/header';
+@import 'layouts/footer';
+
+/* Import componenents styles */
+@import 'components/burger';
+@import 'components/nav';
+@import 'components/forms';
+@import 'components/loaders';
