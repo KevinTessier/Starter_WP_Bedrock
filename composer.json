@@ -55,7 +55,8 @@
     "wpackagist-plugin/hcaptcha-for-forms-and-more": "^4.7.1",
     "wpackagist-plugin/regenerate-thumbnails": "^3.1",
     "wpackagist-plugin/wp-migrate-db": "^2.6",
-    "mwdelaney/sage-acf-gutenberg-blocks": "^0.7.0"
+    "mwdelaney/sage-acf-gutenberg-blocks": "^0.7.0",
+    "wpackagist-plugin/auto-upload-images": "^3.3"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7203627734f35509261de2ca5a41ed19",
+    "content-hash": "ca6159578cfef8800cd25e76e05506a2",
     "packages": [
         {
             "name": "brick/math",
@@ -6397,6 +6397,24 @@
                 }
             ],
             "time": "2024-11-21T01:49:47+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/auto-upload-images",
+            "version": "3.3.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/auto-upload-images/",
+                "reference": "tags/3.3.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/auto-upload-images.3.3.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/auto-upload-images/"
         },
         {
             "name": "wpackagist-plugin/contact-form-7",

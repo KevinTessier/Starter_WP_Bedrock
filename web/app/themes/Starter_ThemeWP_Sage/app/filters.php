@@ -28,6 +28,7 @@ add_filter( 'allowed_block_types_all', function() {
         'core/buttons',
         'core/button',
         'core/group',
+        'core/image'
 
         // active Block Custom
         // 'acf/name-block',
